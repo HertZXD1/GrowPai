@@ -4,7 +4,7 @@
 # What new [15/12/2022]
 * Added new callback function "OnRawPacket" track/block raw packet on your growtopia
 # Download
-* [Download] (https://tinyurl.com/growpai411)
+* [Download](https://tinyurl.com/growpai411)
 * [Discord Server](https://discord.gg/growpai)
 
 # If Error
